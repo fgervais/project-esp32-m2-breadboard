@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 2199230-4)(type Legacy)(uri ${KIPRJMOD}/kicad-library/2199230-4/2199230-4.lib)(options "")(descr ""))
+  (lib (name SM3ZS067U410-NUT1-R1200)(type Legacy)(uri ${KIPRJMOD}/kicad-library/SM3ZS067U410-NUT1-R1200/SM3ZS067U410-NUT1-R1200.lib)(options "")(descr ""))
+)
