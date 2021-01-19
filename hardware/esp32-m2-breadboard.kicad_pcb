@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 9)
+    (drawings 10)
     (tracks 108)
     (zones 0)
     (modules 4)
@@ -728,6 +728,9 @@
     )
   )
 
+  (gr_text "François Gervais\n19 jan 2021\nRev 1.0" (at 85.5 94.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left))
+  )
   (gr_arc (start 47.168 110.922) (end 46.66 110.922) (angle -90) (layer Edge.Cuts) (width 0.05))
   (gr_arc (start 47.168 89.078) (end 47.168 88.57) (angle -90) (layer Edge.Cuts) (width 0.05))
   (gr_arc (start 103.302 110.922) (end 103.302 111.43) (angle -90) (layer Edge.Cuts) (width 0.05))
